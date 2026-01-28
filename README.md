@@ -1,2 +1,2 @@
-# Template_Repo
-Template Repository 
+# Git_Exercise_Repo
+Git Exercise Repository 
